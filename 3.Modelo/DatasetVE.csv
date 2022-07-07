@@ -1,0 +1,222 @@
+Marca;MARCA;MODELO;Ventas total;Precio;range km;tiempo;kWh;eficiencia Wh/km;cargarapida km/h;velocidadmax km/h;Segment_num;marketsegment;personas;towingcapacity;motor;url
+1;VOLKSWAGEN;ID. BUZZ;6323;55000;340;10.0;77.0;226;510;145;7;N;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1651/1-ID-Buzz
+1;VOLKSWAGEN;ID.4 PRO PERFORMANCE;6323;47740;410;8.5;77.0;188;520;160;3;C;5;1000;Battery Electric Vehicle ;https://ev-database.org/car/1314/1-ID4-Pro-Performance
+1;VOLKSWAGEN;ID.3 PRO;6323;36890;350;9.6;58.0;166;490;160;3;C;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1531/1-ID3-Pro
+1;VOLKSWAGEN;ID.4 GTX;6323;53790;400;6.2;77.0;193;500;180;3;C;5;1200;Battery Electric Vehicle ;https://ev-database.org/car/1494/1-ID4-GTX
+1;VOLKSWAGEN;E-UP!;6323;26895;205;11.9;32.3;158;170;130;1;A;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1650/1-e-Up
+1;VOLKSWAGEN;ID.3 PRO PERFORMANCE;6323;38390;350;7.3;58.0;166;490;160;3;C;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1532/1-ID3-Pro-Performance
+1;VOLKSWAGEN;ID.3 PRO S - 5 SEATS;6323;42690;450;7.9;77.0;171;570;160;3;C;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1534/1-ID3-Pro-S---5-Seats
+1;VOLKSWAGEN;ID.5 GTX;6323;55690;405;6.3;77.0;190;540;180;3;C;5;1200;Battery Electric Vehicle ;https://ev-database.org/car/1558/1-ID5-GTX
+1;VOLKSWAGEN;ID.4 PRO;6323;43807;410;10.4;77.0;188;520;160;3;C;5;1000;Battery Electric Vehicle ;https://ev-database.org/car/1627/1-ID4-Pro
+1;VOLKSWAGEN;ID.4 PURE;6323;39790;285;10.9;52.0;182;360;160;3;C;5;1000;Battery Electric Vehicle ;https://ev-database.org/car/1489/1-ID4-Pure
+1;VOLKSWAGEN;ID.5 PRO;6323;48590;430;10.4;77.0;179;540;160;3;C;5;1000;Battery Electric Vehicle ;https://ev-database.org/car/1556/1-ID5-Pro
+1;VOLKSWAGEN;ID.3 PURE PERFORMANCE;6323;33990;275;8.9;45.0;164;410;160;3;C;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1530/1-ID3-Pure-Performance
+1;VOLKSWAGEN;ID.3 PRO S - 4 SEATS;6323;42460;450;7.9;77.0;171;570;160;3;C;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1533/1-ID3-Pro-S---4-Seats
+1;VOLKSWAGEN;ID.5 PRO PERFORMANCE;6323;50090;430;8.4;77.0;179;540;160;3;C;5;1000;Battery Electric Vehicle ;https://ev-database.org/car/1557/1-ID5-Pro-Performance
+1;VOLKSWAGEN;ID.4 PURE PERFORMANCE;6323;41290;285;9.0;52.0;182;360;160;3;C;5;1000;Battery Electric Vehicle ;https://ev-database.org/car/1411/1-ID4-Pure-Performance
+2;HYUNDAI;IONIQ 5 LONG RANGE AWD;6322;55500;370;5.2;70.0;189;910;185;3;C;5;1600;Battery Electric Vehicle ;https://ev-database.org/car/1479/2-IONIQ-5-Long-Range-AWD
+2;HYUNDAI;IONIQ 5 LONG RANGE AWD;6322;55500;385;5.2;72.5;188;1010;185;3;C;5;1600;Battery Electric Vehicle ;https://ev-database.org/car/1663/2-IONIQ-5-Long-Range-AWD
+3;TESLA;MODEL 3 LONG RANGE DUAL MOTOR;9144;60995;485;4.4;75.0;155;670;233;4;D;5;1000;Battery Electric Vehicle ;https://ev-database.org/car/1591/3-Model-3-Long-Range-Dual-Motor
+4;BMW;I4 EDRIVE40;3393;60630;470;5.7;80.7;172;650;190;4;D;5;1600;Battery Electric Vehicle ;https://ev-database.org/car/1252/4-i4-eDrive40
+3;TESLA;MODEL 3;9144;52995;380;6.1;57.5;151;590;225;4;D;5;1000;Battery Electric Vehicle ;https://ev-database.org/car/1555/3-Model-3
+5;DACIA;SPRING ELECTRIC;1296;18750;170;15.0;26.8;158;170;125;1;A;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1319/5-Spring-Electric
+6;KIA;EV6 GT;5185;63595;360;3.5;72.5;201;940;260;3;C;5;1600;Battery Electric Vehicle ;https://ev-database.org/car/1471/6-EV6-GT
+7;MERCEDES;EQS 450+;2647;121432;640;6.2;107.8;168;840;210;6;F;5;750;Battery Electric Vehicle ;https://ev-database.org/car/1483/7-EQS-450plus
+8;POLESTAR;2 LONG RANGE DUAL MOTOR;0;53900;395;4.7;75.0;190;510;205;4;D;5;1500;Battery Electric Vehicle ;https://ev-database.org/car/1488/8-2-Long-Range-Dual-Motor
+7;MERCEDES;EQA 250;2647;52899;355;8.9;66.5;187;510;160;3;C;5;750;Battery Electric Vehicle ;https://ev-database.org/car/1147/7-EQA-250
+3;TESLA;MODEL Y LONG RANGE DUAL MOTOR;9144;66995;435;5.0;75.0;172;600;217;4;D;5;1600;Battery Electric Vehicle ;https://ev-database.org/car/1619/3-Model-Y-Long-Range-Dual-Motor
+9;SKODA;ENYAQ IV 80;1043;50590;420;8.6;77.0;183;530;160;3;C;5;1000;Battery Electric Vehicle ;https://ev-database.org/car/1280/9-Enyaq-iV-80
+6;KIA;EV6 LONG RANGE 2WD;5185;52695;400;7.3;72.5;181;1050;185;3;C;5;1600;Battery Electric Vehicle ;https://ev-database.org/car/1481/6-EV6-Long-Range-2WD
+4;BMW;IX XDRIVE50;3393;107539;505;4.6;105.2;208;620;200;5;E;5;2500;Battery Electric Vehicle ;https://ev-database.org/car/1473/4-iX-xDrive50
+4;BMW;I4 M50;3393;73429;435;3.9;80.7;186;600;225;4;D;5;1600;Battery Electric Vehicle ;https://ev-database.org/car/1519/4-i4-M50
+10;NISSAN;ARIYA 87KWH;6643;56390;445;7.6;87.0;196;530;160;3;C;5;1500;Battery Electric Vehicle ;https://ev-database.org/car/1302/10-Ariya-87kWh
+11;RENAULT;MEGANE E-TECH EV60 220HP;11003;39990;360;7.5;60.0;167;520;160;3;C;5;900;Battery Electric Vehicle ;https://ev-database.org/car/1521/11-Megane-E-Tech-EV60-220hp
+4;BMW;I3 120 AH;3393;39939;235;7.3;37.9;161;270;150;2;B;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1145/4-i3-120-Ah
+7;MERCEDES;EQS 580 4MATIC;2647;15749;610;4.3;107.8;177;800;210;6;F;5;750;Battery Electric Vehicle ;https://ev-database.org/car/1484/7-EQS-580-4MATIC
+12;HONDA;E;202;36160;170;9.0;28.5;168;190;145;2;B;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1171/12-e
+6;KIA;E-NIRO 64 KWH;5185;38995;370;7.8;64.0;173;350;167;3;C;5;1134;Battery Electric Vehicle ;https://ev-database.org/car/1338/6-e-Niro-64-kWh
+3;TESLA;MODEL S PLAID;9144;15000;560;2.1;95.0;170;780;322;6;F;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1405/3-Model-S-Plaid
+7;MERCEDES;EQE 350+;2647;75000;545;6.0;90.6;166;690;160;5;E;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1538/7-EQE-350plus
+3;TESLA;MODEL Y PERFORMANCE;9144;71005;415;3.7;75.0;181;580;250;4;D;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1183/3-Model-Y-Performance
+11;RENAULT;ZOE ZE50 R110;11003;33490;315;11.4;52.0;165;230;135;2;B;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1164/11-Zoe-ZE50-R110
+13;SUBARU;SOLTERRA AWD;0;55000;375;7.7;71.4;190;490;160;4;D;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1567/13-Solterra-AWD
+14;AUDI;Q4 E-TRON 40;1352;54160;405;8.5;76.6;189;510;160;3;C;5;1000;Battery Electric Vehicle ;https://ev-database.org/car/1490/14-Q4-e-tron-40
+3;TESLA;MODEL S LONG RANGE;9144;115000;585;3.2;95.0;162;810;250;6;F;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1404/3-Model-S-Long-Range
+6;KIA;EV6 LONG RANGE AWD;5185;55195;390;5.2;72.5;186;1020;185;3;C;5;1600;Battery Electric Vehicle ;https://ev-database.org/car/1482/6-EV6-Long-Range-AWD
+15;PEUGEOT;E-2008 SUV;5323;35530;255;8.5;45.0;176;410;150;2;B;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1584/15-e-2008-SUV
+16;LIGHTYEAR;ONE;0;150000;575;10.0;60.0;104;540;150;6;F;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1166/16-One
+15;PEUGEOT;E-208;5323;30450;285;8.1;45.0;158;460;150;2;B;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1583/15-e-208
+17;FIAT;500E HATCHBACK 42 KWH;1960;30900;235;9.0;37.3;159;390;150;2;B;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1285/17-500e-Hatchback-42-kWh
+14;AUDI;E-TRON GT RS;1352;148420;405;3.3;85.0;210;1000;250;6;F;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1153/14-e-tron-GT-RS
+18;MAZDA;MX-30;445;33140;170;9.7;30.0;176;180;140;3;C;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1241/18-MX-30
+4;BMW;IX XDRIVE40;3393;87330;350;6.1;71.0;203;470;200;5;E;5;2500;Battery Electric Vehicle ;https://ev-database.org/car/1472/4-iX-xDrive40
+7;MERCEDES;EQB 350 4MATIC;2647;66935;330;6.2;66.5;202;470;160;3;C;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1493/7-EQB-350-4MATIC
+8;POLESTAR;2 LONG RANGE SINGLE MOTOR;0;49900;425;7.4;75.0;176;550;160;4;D;5;1500;Battery Electric Vehicle ;https://ev-database.org/car/1487/8-2-Long-Range-Single-Motor
+7;MERCEDES;EQC 400 4MATIC;2647;72006;370;5.1;80.0;216;440;180;4;D;5;1800;Battery Electric Vehicle ;https://ev-database.org/car/1337/7-EQC-400-4MATIC
+19;VOLVO;C40 RECHARGE TWIN PURE ELECTRIC;459;56495;350;4.7;75.0;214;450;180;3;C;5;1800;Battery Electric Vehicle ;https://ev-database.org/car/1421/19-C40-Recharge-Twin-Pure-Electric
+20;AIWAYS;U5;13;35993;330;7.5;63.0;191;340;150;3;C;5;1500;Battery Electric Vehicle ;https://ev-database.org/car/1261/20-U5
+4;BMW;IX3;3393;69333;385;6.8;74.0;192;520;180;4;D;5;750;Battery Electric Vehicle ;https://ev-database.org/car/1535/4-iX3
+21;TOYOTA;BZ4X FWD;342;48000;380;8.4;71.4;188;490;160;4;D;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1564/21-bZ4X-FWD
+9;SKODA;ENYAQ IV 60;1043;43690;330;8.7;58.0;176;460;160;3;C;5;1000;Battery Electric Vehicle ;https://ev-database.org/car/1279/9-Enyaq-iV-60
+19;VOLVO;XC40 RECHARGE PURE ELECTRIC;459;44995;315;7.4;67.0;213;400;160;3;C;5;1500;Battery Electric Vehicle ;https://ev-database.org/car/1592/19-XC40-Recharge-Pure-Electric
+22;OPEL;CORSA-E;2141;31599;285;8.1;45.0;158;460;150;2;B;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1585/22-Corsa-e
+10;NISSAN;LEAF E+;6643;40290;340;6.9;59.0;174;380;157;3;C;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1657/10-Leaf-eplus
+9;SKODA;ENYAQ COUPE IV RS;1043;57000;410;6.5;77.0;188;570;180;3;C;5;1200;Battery Electric Vehicle ;https://ev-database.org/car/1631/9-Enyaq-Coupe-iV-RS
+23;FORD;MUSTANG MACH-E ER RWD;620;62275;440;7.0;88.0;200;430;180;4;D;5;750;Battery Electric Vehicle ;https://ev-database.org/car/1243/23-Mustang-Mach-E-ER-RWD
+10;NISSAN;LEAF;6643;33340;235;7.9;39.0;166;230;144;3;C;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1656/10-Leaf
+24;LUCID;AIR GRAND TOURING;0;150000;630;3.2;105.0;167;1390;270;6;F;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1316/24-Air-Grand-Touring
+25;JAGUAR;I-PACE EV400;10100;83077;380;4.8;84.7;223;360;200;5;E;5;750;Battery Electric Vehicle ;https://ev-database.org/car/1287/25-I-Pace-EV400
+26;CUPRA;BORN 170 KW - 77 KWH;594;45000;450;7.0;77.0;171;570;160;3;C;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1518/26-Born-170-kW---77-kWh
+26;CUPRA;BORN 150 KW - 58 KWH;594;38990;350;7.3;58.0;166;490;160;3;C;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1516/26-Born-150-kW---58-kWh
+14;AUDI;Q4 E-TRON 35;1352;49350;285;9.0;52.0;182;360;160;3;C;5;0;Battery Electric Vehicle ;https://ev-database.org/car/1179/14-Q4-e-tron-35
+27;SERES;3;0;37995;270;8.9;52.0;193;390;155;3;C;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1357/27-3
+28;LEXUS;UX 300E;149;44995;235;7.5;45.0;191;150;160;3;C;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1251/28-UX-300e
+29;PORSCHE;TAYCAN TURBO S;636;191700;400;2.8;83.7;209;880;260;6;F;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1116/29-Taycan-Turbo-S
+24;LUCID;AIR PURE;0;85000;540;4.2;85.0;157;1410;200;6;F;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1318/24-Air-Pure
+23;FORD;MUSTANG MACH-E ER AWD;620;70840;420;5.8;88.0;210;410;180;4;D;5;750;Battery Electric Vehicle ;https://ev-database.org/car/1245/23-Mustang-Mach-E-ER-AWD
+30;CITROEN;E-C4;2563;34490;265;9.7;45.0;170;420;150;3;C;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1587/30-e-C4
+11;RENAULT;TWINGO ELECTRIC;11003;21270;130;12.6;21.3;164;420;135;1;A;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1270/11-Twingo-Electric
+9;SKODA;ENYAQ COUPE IV 80;1043;52000;455;8.7;77.0;169;630;160;2;B;5;1000;Battery Electric Vehicle ;https://ev-database.org/car/1629/9-Enyaq-Coupe-iV-80
+22;OPEL;MOKKA-E;2141;35649;255;9.2;45.0;176;410;150;3;C;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1586/22-Mokka-e
+11;RENAULT;ZOE ZE50 R135;11003;35790;310;9.5;52.0;168;230;140;2;B;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1205/11-Zoe-ZE50-R135
+19;VOLVO;XC40 RECHARGE TWIN PURE ELECTRIC;459;54995;340;4.9;75.0;221;440;180;3;C;5;1800;Battery Electric Vehicle ;https://ev-database.org/car/1593/19-XC40-Recharge-Twin-Pure-Electric
+4;BMW;IX M60;3393;134839;485;3.8;105.2;217;590;250;5;E;5;2500;Battery Electric Vehicle ;https://ev-database.org/car/1590/4-iX-M60
+14;AUDI;Q4 SPORTBACK E-TRON 40;1352;56210;425;8.5;76.6;180;540;160;3;C;5;1000;Battery Electric Vehicle ;https://ev-database.org/car/1528/14-Q4-Sportback-e-tron-40
+8;POLESTAR;2 STANDARD RANGE SINGLE MOTOR;0;46900;385;7.4;67.0;174;490;160;4;D;5;1500;Battery Electric Vehicle ;https://ev-database.org/car/1654/8-2-Standard-Range-Single-Motor
+3;TESLA;MODEL 3 PERFORMANCE;9144;66995;460;3.3;75.0;163;640;261;4;D;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1620/3-Model-3-Performance
+9;SKODA;ENYAQ IV 50;1043;34600;295;11.3;52.0;176;240;160;3;C;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1187/9-Enyaq-iV-50
+21;TOYOTA;BZ4X AWD;342;60000;375;7.7;71.4;190;490;160;4;D;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1565/21-bZ4X-AWD
+3;TESLA;MODEL X LONG RANGE;9144;125000;490;3.9;95.0;194;680;250;6;F;7;2250;Battery Electric Vehicle ;https://ev-database.org/car/1407/3-Model-X-Long-Range
+31;MINI;COOPER SE;2053;34990;185;7.3;28.9;156;260;150;2;B;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1409/31-Cooper-SE
+23;FORD;MUSTANG MACH-E SR RWD;620;54125;345;6.9;68.0;197;380;180;4;D;5;750;Battery Electric Vehicle ;https://ev-database.org/car/1242/23-Mustang-Mach-E-SR-RWD
+11;RENAULT;ZOE ZE40 R110;11003;29990;255;11.4;41.0;161;230;135;2;B;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1236/11-Zoe-ZE40-R110
+9;SKODA;ENYAQ IV 80X;1043;52690;400;6.9;77.0;193;500;160;3;C;5;1200;Battery Electric Vehicle ;https://ev-database.org/car/1281/9-Enyaq-iV-80x
+14;AUDI;Q4 E-TRON 50 QUATTRO;1352;66110;385;6.2;76.6;199;490;180;3;C;5;1200;Battery Electric Vehicle ;https://ev-database.org/car/1491/14-Q4-e-tron-50-quattro
+6;KIA;EV6 STANDARD RANGE 2WD;5185;45195;305;8.5;54.0;177;750;185;3;C;5;750;Battery Electric Vehicle ;https://ev-database.org/car/1480/6-EV6-Standard-Range-2WD
+11;RENAULT;MEGANE E-TECH EV60 130HP;11003;40990;365;10.5;60.0;164;520;150;3;C;5;500;Battery Electric Vehicle ;https://ev-database.org/car/1588/11-Megane-E-Tech-EV60-130hp
+3;TESLA;MODEL X PLAID;9144;160000;465;2.6;95.0;204;650;262;6;F;7;2250;Battery Electric Vehicle ;https://ev-database.org/car/1408/3-Model-X-Plaid
+7;MERCEDES;EQS A38 53 4MATIC+;2647;17201;565;3.4;107.8;191;740;250;6;F;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1537/7-EQS-A38-53-4MATICplus
+11;RENAULT;MEGANE E-TECH EV40 130HP;11003;35390;250;10.0;40.0;160;360;150;3;C;5;500;Battery Electric Vehicle ;https://ev-database.org/car/1536/11-Megane-E-Tech-EV40-130hp
+32;SMART;EQ FORFOUR;6277;191200;95;12.7;16.7;176;230;130;1;A;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1232/32-EQ-forfour
+7;MERCEDES;EQV 300 LONG;2647;75813;305;12.1;90.0;295;310;160;7;N;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1240/7-EQV-300-Long
+14;AUDI;E-TRON GT QUATTRO;1352;106390;420;4.1;85.0;202;1030;245;6;F;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1420/14-e-tron-GT-quattro
+19;VOLVO;C40 RECHARGE PURE ELECTRIC;459;46495;325;7.4;67.0;206;410;160;3;C;5;1500;Battery Electric Vehicle ;https://ev-database.org/car/1655/19-C40-Recharge-Pure-Electric
+7;MERCEDES;EQB 300 4MATIC;2647;64031;330;8.0;66.5;202;470;160;3;C;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1559/7-EQB-300-4MATIC
+6;KIA;E-SOUL 64 KWH;5185;37700;370;7.9;64.0;173;350;167;2;B;5;300;Battery Electric Vehicle ;https://ev-database.org/car/1288/6-e-Soul-64-kWh
+4;BMW;I3S 120 AH;3393;43634;230;6.9;37.9;165;260;160;2;B;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1149/4-i3s-120-Ah
+17;FIAT;500E CABRIO;1960;33900;230;9.0;37.3;162;380;150;2;B;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1275/17-500e-Cabrio
+17;FIAT;500E HATCHBACK 24 KWH;1960;24900;135;9.5;21.3;158;230;135;2;B;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1327/17-500e-Hatchback-24-kWh
+14;AUDI;E-TRON 55 QUATTRO;1352;66400;365;5.7;86.5;237;590;200;5;E;5;1800;Battery Electric Vehicle ;https://ev-database.org/car/1355/14-e-tron-55-quattro
+29;PORSCHE;TAYCAN 4S;636;110600;395;4.0;71.0;180;790;250;6;F;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1237/29-Taycan-4S
+7;MERCEDES;EQS 350;2647;91303;545;6.6;90.6;166;690;210;6;F;5;750;Battery Electric Vehicle ;https://ev-database.org/car/1562/7-EQS-350
+7;MERCEDES;EQE A38 43 4MATIC;2647;10500;485;4.2;90.6;187;610;210;5;E;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1652/7-EQE-A38-43-4MATIC
+7;MERCEDES;EQA 350 4MATIC;2647;63184;350;6.0;66.5;190;500;160;3;C;5;1800;Battery Electric Vehicle ;https://ev-database.org/car/1496/7-EQA-350-4MATIC
+17;FIAT;500E 3+1;1960;32900;235;9.0;37.3;159;390;150;2;B;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1328/17-500e-3plus1
+33;SONO;SION;0;29000;260;9.0;47.0;181;310;140;3;C;5;750;Battery Electric Vehicle ;https://ev-database.org/car/1152/33-Sion
+6;KIA;E-NIRO 39 KWH;5185;35995;235;9.8;39.2;167;230;155;3;C;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1339/6-e-Niro-39-kWh
+10;NISSAN;ARIYA 63KWH;6643;47390;335;7.5;63.0;188;450;160;3;C;5;1500;Battery Electric Vehicle ;https://ev-database.org/car/1301/10-Ariya-63kWh
+14;AUDI;Q4 SPORTBACK E-TRON 50 QUATTRO;1352;68160;400;6.2;76.6;192;500;180;3;C;5;1200;Battery Electric Vehicle ;https://ev-database.org/car/1492/14-Q4-Sportback-e-tron-50-quattro
+10;NISSAN;ARIYA E-4ORCE 87KWH;6643;61390;420;5.7;87.0;207;500;200;3;C;5;1500;Battery Electric Vehicle ;https://ev-database.org/car/1304/10-Ariya-e-4ORCE-87kWh
+7;MERCEDES;EQA 300 4MATIC;2647;60764;350;7.7;66.5;190;500;160;3;C;5;1800;Battery Electric Vehicle ;https://ev-database.org/car/1495/7-EQA-300-4MATIC
+14;AUDI;Q4 E-TRON 45 QUATTRO;1352;64110;385;6.9;76.6;199;490;180;3;C;5;1200;Battery Electric Vehicle ;https://ev-database.org/car/1527/14-Q4-e-tron-45-quattro
+15;PEUGEOT;E-TRAVELLER STANDARD 50 KWH;5323;53011;180;13.1;45.0;250;290;130;7;N;9;1000;Battery Electric Vehicle ;https://ev-database.org/car/1351/15-e-Traveller-Standard-50-kWh
+29;PORSCHE;TAYCAN;636;89200;410;5.4;71.0;173;820;230;6;F;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1393/29-Taycan
+29;PORSCHE;TAYCAN PLUS;636;95244;475;5.4;83.7;176;1050;230;6;F;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1394/29-Taycan-Plus
+23;FORD;MUSTANG MACH-E GT;620;78690;410;4.4;88.0;215;400;200;4;D;5;750;Battery Electric Vehicle ;https://ev-database.org/car/1246/23-Mustang-Mach-E-GT
+9;SKODA;ENYAQ COUPE IV 80X;1043;54000;430;7.0;77.0;179;600;160;3;C;5;1200;Battery Electric Vehicle ;https://ev-database.org/car/1630/9-Enyaq-Coupe-iV-80x
+12;HONDA;E ADVANCE;202;39460;170;8.3;28.5;168;190;145;2;B;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1233/12-e-Advance
+24;LUCID;AIR TOURING;0;100000;530;3.4;85.0;160;1390;250;6;F;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1317/24-Air-Touring
+9;SKODA;ENYAQ IV RS;1043;55000;385;6.2;77.0;200;530;180;3;C;5;1200;Battery Electric Vehicle ;https://ev-database.org/car/1282/9-Enyaq-iV-RS
+29;PORSCHE;TAYCAN 4 CROSS TURISMO;636;99500;425;5.1;83.7;197;930;220;6;F;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1186/29-Taycan-4-Cross-Turismo
+34;JAC;IEV7S;5;29900;225;12.0;39.0;173;160;132;2;B;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1410/34-iEV7s
+26;CUPRA;BORN 110 KW - 45 KWH;594;34000;275;8.9;45.0;164;410;160;3;C;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1178/26-Born-110-kW---45-kWh
+35;SSANGYONG;KORANDO E-MOTION;7;39990;290;8.5;56.0;193;290;156;3;C;5;1500;Battery Electric Vehicle ;https://ev-database.org/car/1589/35-Korando-e-Motion
+36;GENESIS;GV60 PREMIUM;0;55000;390;7.3;72.5;186;1020;185;3;C;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1647/36-GV60-Premium
+32;SMART;EQ FORTWO COUPE;6277;24516;100;11.6;16.7;167;230;130;1;A;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1230/32-EQ-fortwo-coupe
+37;DS;3 CROSSBACK E-TENSE;0;38290;260;8.7;45.0;173;420;150;2;B;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1582/37-3-Crossback-E-Tense
+23;FORD;MUSTANG MACH-E SR AWD;620;61365;330;6.3;68.0;206;360;180;4;D;5;750;Battery Electric Vehicle ;https://ev-database.org/car/1244/23-Mustang-Mach-E-SR-AWD
+29;PORSCHE;TAYCAN GTS;636;136300;450;3.7;83.7;186;990;250;6;F;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1560/29-Taycan-GTS
+30;CITROEN;E-BERLINGO M 50 KWH;2563;38715;200;11.7;45.0;225;320;135;7;N;5;750;Battery Electric Vehicle ;https://ev-database.org/car/1546/30-e-Berlingo-M-50-kWh
+26;CUPRA;BORN 170 KW - 58 KWH;594;41000;345;6.6;58.0;168;480;160;3;C;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1517/26-Born-170-kW---58-kWh
+10;NISSAN;ARIYA E-4ORCE 87KWH PERFORMANCE;6643;66390;385;5.1;87.0;226;460;200;3;C;5;1500;Battery Electric Vehicle ;https://ev-database.org/car/1305/10-Ariya-e-4ORCE-87kWh-Performance
+14;AUDI;Q4 SPORTBACK E-TRON 35;1352;51400;295;9.0;52.0;176;370;160;3;C;5;0;Battery Electric Vehicle ;https://ev-database.org/car/1290/14-Q4-Sportback-e-tron-35
+29;PORSCHE;TAYCAN TURBO;636;15790;415;3.2;83.7;202;910;260;6;F;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1229/29-Taycan-Turbo
+7;MERCEDES;EQE A38 53 4MATIC+;2647;125000;475;3.3;90.6;191;600;240;5;E;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1653/7-EQE-A38-53-4MATICplus
+29;PORSCHE;TAYCAN 4S PLUS;636;116431;460;4.0;83.7;182;1010;250;6;F;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1238/29-Taycan-4S-Plus
+14;AUDI;E-TRON SPORTBACK 55 QUATTRO;1352;68800;380;5.7;86.5;228;610;200;5;E;5;1800;Battery Electric Vehicle ;https://ev-database.org/car/1356/14-e-tron-Sportback-55-quattro
+15;PEUGEOT;E-RIFTER STANDARD 50 KWH;5323;39620;200;11.7;45.0;225;320;135;7;N;7;750;Battery Electric Vehicle ;https://ev-database.org/car/1522/15-e-Rifter-Standard-50-kWh
+6;KIA;E-SOUL 39 KWH;5185;33990;230;9.9;39.2;170;220;157;2;B;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1289/6-e-Soul-39-kWh
+21;TOYOTA;PROACE VERSO M 75 KWH;342;64530;250;13.1;65.0;260;290;130;7;N;8;1000;Battery Electric Vehicle ;https://ev-database.org/car/1514/21-PROACE-Verso-M-75-kWh
+7;MERCEDES;EQA 250+;2647;55960;375;9.1;70.5;188;520;160;3;C;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1665/7-EQA-250plus
+22;OPEL;ZAFIRA-E LIFE L 75 KWH;2141;63754;250;13.3;65.0;260;290;130;7;N;9;1000;Battery Electric Vehicle ;https://ev-database.org/car/1349/22-Zafira-e-Life-L-75-kWh
+36;GENESIS;GV60 SPORT PLUS;0;67000;360;4.0;72.5;201;940;250;3;C;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1649/36-GV60-Sport-Plus
+9;SKODA;ENYAQ COUPE IV 60;1043;45000;345;8.8;58.0;168;480;160;3;C;5;1000;Battery Electric Vehicle ;https://ev-database.org/car/1628/9-Enyaq-Coupe-iV-60
+36;GENESIS;GV60 SPORT;0;59000;375;5.2;72.5;193;980;185;3;C;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1648/36-GV60-Sport
+29;PORSCHE;TAYCAN TURBO S CROSS TURISMO;636;193200;385;2.9;83.7;217;850;250;6;F;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1439/29-Taycan-Turbo-S-Cross-Turismo
+14;AUDI;E-TRON 50 QUATTRO;1352;69100;280;6.8;64.7;231;470;190;5;E;5;1800;Battery Electric Vehicle ;https://ev-database.org/car/1660/14-e-tron-50-quattro
+29;PORSCHE;TAYCAN TURBO S SPORT TURISMO;636;192700;395;2.8;83.7;212;870;260;6;F;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1626/29-Taycan-Turbo-S-Sport-Turismo
+14;AUDI;E-TRON S;1352;86400;320;4.5;86.5;270;510;210;5;E;5;1800;Battery Electric Vehicle ;https://ev-database.org/car/1658/14-e-tron-S
+15;PEUGEOT;E-RIFTER LONG 50 KWH;5323;45370;195;11.7;45.0;231;310;135;7;N;7;750;Battery Electric Vehicle ;https://ev-database.org/car/1523/15-e-Rifter-Long-50-kWh
+14;AUDI;E-TRON SPORTBACK 50 QUATTRO;1352;71350;295;6.8;64.7;219;490;190;5;E;5;1800;Battery Electric Vehicle ;https://ev-database.org/car/1661/14-e-tron-Sportback-50-quattro
+21;TOYOTA;PROACE VERSO L 75 KWH;342;64295;250;13.1;65.0;260;290;130;7;N;8;1000;Battery Electric Vehicle ;https://ev-database.org/car/1515/21-PROACE-Verso-L-75-kWh
+7;MERCEDES;EQV 300 EXTRA-LONG;2647;76896;305;12.1;90.0;295;310;160;7;N;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1315/7-EQV-300-Extra-Long
+30;CITROEN;E-JUMPY COMBI M 75 KWH;2563;53830;250;13.3;65.0;260;290;130;7;N;9;1000;Battery Electric Vehicle ;https://ev-database.org/car/1597/30-e-Jumpy-Combi-M-75-kWh
+22;OPEL;COMBO-E LIFE 50 KWH;2141;39434;200;11.7;45.0;225;320;135;7;N;7;750;Battery Electric Vehicle ;https://ev-database.org/car/1544/22-Combo-e-Life-50-kWh
+14;AUDI;E-TRON S SPORTBACK;1352;88800;330;4.5;86.5;262;530;210;5;E;5;1800;Battery Electric Vehicle ;https://ev-database.org/car/1659/14-e-tron-S-Sportback
+7;MERCEDES;EQB 250;2647;56408;345;9.2;66.5;193;500;160;3;C;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1664/7-EQB-250
+22;OPEL;COMBO-E LIFE XL 50 KWH;2141;42400;195;11.7;45.0;231;310;135;7;N;7;750;Battery Electric Vehicle ;https://ev-database.org/car/1545/22-Combo-e-Life-XL-50-kWh
+7;MERCEDES;EVITO TOURER LONG 90 KWH;2647;71741;310;12.0;90.0;290;310;160;7;N;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1615/7-eVito-Tourer-Long-90-kWh
+32;SMART;EQ FORTWO CABRIO;6277;27541;95;11.9;16.7;176;230;130;1;A;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1231/32-EQ-fortwo-cabrio
+7;MERCEDES;EVITO TOURER LONG 60 KWH;2647;60678;210;12.0;60.0;286;310;160;7;N;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1617/7-eVito-Tourer-Long-60-kWh
+30;CITROEN;E-SPACETOURER M 50 KWH;2563;53610;180;12.1;45.0;250;290;130;7;N;9;1000;Battery Electric Vehicle ;https://ev-database.org/car/1341/30-e-SpaceTourer-M-50-kWh
+30;CITROEN;E-BERLINGO XL 50 KWH;2563;44920;195;11.7;45.0;231;310;135;7;N;7;750;Battery Electric Vehicle ;https://ev-database.org/car/1547/30-e-Berlingo-XL-50-kWh
+15;PEUGEOT;E-TRAVELLER LONG 75 KWH;5323;63962;260;14.3;68.0;262;280;130;7;N;9;1000;Battery Electric Vehicle ;https://ev-database.org/car/1354/15-e-Traveller-Long-75-kWh
+29;PORSCHE;TAYCAN GTS SPORT TURISMO;636;137300;425;3.7;83.7;197;930;250;6;F;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1561/29-Taycan-GTS-Sport-Turismo
+7;MERCEDES;EVITO TOURER EXTRA-LONG 90 KWH;2647;72818;305;12.0;90.0;295;310;160;7;N;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1616/7-eVito-Tourer-Extra-Long-90-kWh
+15;PEUGEOT;E-EXPERT COMBI STANDARD 75 KWH;5323;52830;265;14.3;68.0;257;290;130;7;N;9;1000;Battery Electric Vehicle ;https://ev-database.org/car/1607/15-e-Expert-Combi-Standard-75-kWh
+30;CITROEN;E-SPACETOURER M 75 KWH;2563;62660;250;13.3;65.0;260;290;130;7;N;9;1000;Battery Electric Vehicle ;https://ev-database.org/car/1343/30-e-SpaceTourer-M-75-kWh
+15;PEUGEOT;E-TRAVELLER STANDARD 75 KWH;5323;62026;265;14.3;68.0;257;290;130;7;N;9;1000;Battery Electric Vehicle ;https://ev-database.org/car/1353/15-e-Traveller-Standard-75-kWh
+29;PORSCHE;TAYCAN PLUS SPORT TURISMO;636;96844;445;5.4;83.7;188;980;230;6;F;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1622/29-Taycan-Plus-Sport-Turismo
+29;PORSCHE;TAYCAN 4S CROSS TURISMO;636;116000;425;4.1;83.7;197;930;240;6;F;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1437/29-Taycan-4S-Cross-Turismo
+29;PORSCHE;TAYCAN SPORT TURISMO;636;90800;380;5.4;71.0;187;760;230;6;F;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1621/29-Taycan-Sport-Turismo
+22;OPEL;VIVARO-E COMBI M 75 KWH;2141;53409;250;13.3;65.0;260;290;130;7;N;9;1000;Battery Electric Vehicle ;https://ev-database.org/car/1602/22-Vivaro-e-Combi-M-75-kWh
+15;PEUGEOT;E-EXPERT COMBI LONG 75 KWH;5323;54766;260;14.3;68.0;262;280;130;7;N;9;1000;Battery Electric Vehicle ;https://ev-database.org/car/1608/15-e-Expert-Combi-Long-75-kWh
+22;OPEL;ZAFIRA-E LIFE M 75 KWH;2141;62665;250;13.3;65.0;260;290;130;7;N;9;1000;Battery Electric Vehicle ;https://ev-database.org/car/1348/22-Zafira-e-Life-M-75-kWh
+29;PORSCHE;TAYCAN TURBO CROSS TURISMO;636;159300;400;3.3;83.7;209;880;250;6;F;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1438/29-Taycan-Turbo-Cross-Turismo
+21;TOYOTA;PROACE SHUTTLE L 75 KWH;342;56295;245;13.1;65.0;265;280;130;7;N;9;1000;Battery Electric Vehicle ;https://ev-database.org/car/1612/21-PROACE-Shuttle-L-75-kWh
+7;MERCEDES;EVITO TOURER EXTRA-LONG 60 KWH;2647;61571;205;12.0;60.0;293;300;160;7;N;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1618/7-eVito-Tourer-Extra-Long-60-kWh
+7;MERCEDES;EQV 250 LONG;2647;67818;205;12.0;60.0;293;190;160;7;N;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1542/7-EQV-250-Long
+29;PORSCHE;TAYCAN 4S SPORT TURISMO;636;111500;370;4.0;71.0;192;740;250;6;F;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1623/29-Taycan-4S-Sport-Turismo
+21;TOYOTA;PROACE SHUTTLE M 75 KWH;342;55095;245;13.1;65.0;265;280;130;7;N;9;1000;Battery Electric Vehicle ;https://ev-database.org/car/1611/21-PROACE-Shuttle-M-75-kWh
+29;PORSCHE;TAYCAN 4S PLUS SPORT TURISMO;636;117331;430;4.0;83.7;195;950;250;6;F;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1624/29-Taycan-4S-Plus-Sport-Turismo
+21;TOYOTA;PROACE VERSO M 50 KWH;342;58530;180;12.1;45.0;250;290;130;7;N;8;1000;Battery Electric Vehicle ;https://ev-database.org/car/1512/21-PROACE-Verso-M-50-kWh
+30;CITROEN;E-JUMPY COMBI M 50 KWH;2563;44780;180;12.1;45.0;250;290;130;7;N;9;1000;Battery Electric Vehicle ;https://ev-database.org/car/1595/30-e-Jumpy-Combi-M-50-kWh
+21;TOYOTA;PROACE VERSO L 50 KWH;342;59385;175;12.1;45.0;257;280;130;7;N;8;1000;Battery Electric Vehicle ;https://ev-database.org/car/1513/21-PROACE-Verso-L-50-kWh
+15;PEUGEOT;E-TRAVELLER LONG 50 KWH;5323;54947;175;13.1;45.0;257;280;130;7;N;9;1000;Battery Electric Vehicle ;https://ev-database.org/car/1352/15-e-Traveller-Long-50-kWh
+30;CITROEN;E-JUMPY COMBI XL 75 KWH;2563;55730;250;13.3;65.0;260;290;130;7;N;9;1000;Battery Electric Vehicle ;https://ev-database.org/car/1598/30-e-Jumpy-Combi-XL-75-kWh
+22;OPEL;ZAFIRA-E LIFE L 50 KWH;2141;55224;175;12.1;45.0;257;280;130;7;N;9;1000;Battery Electric Vehicle ;https://ev-database.org/car/1347/22-Zafira-e-Life-L-50-kWh
+7;MERCEDES;EQV 250 EXTRA-LONG;2647;68711;205;12.0;60.0;293;190;160;7;N;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1543/7-EQV-250-Extra-Long
+29;PORSCHE;TAYCAN TURBO SPORT TURISMO;636;158800;405;3.2;83.7;207;890;260;6;F;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1625/29-Taycan-Turbo-Sport-Turismo
+30;CITROEN;E-SPACETOURER XL 75 KWH;2563;64560;250;13.3;65.0;260;290;130;7;N;9;1000;Battery Electric Vehicle ;https://ev-database.org/car/1344/30-e-SpaceTourer-XL-75-kWh
+15;PEUGEOT;E-EXPERT COMBI COMPACT 50 KWH;5323;40790;180;12.1;45.0;250;290;130;7;N;9;1000;Battery Electric Vehicle ;https://ev-database.org/car/1604/15-e-Expert-Combi-Compact-50-kWh
+21;TOYOTA;PROACE SHUTTLE M 50 KWH;342;45395;175;12.1;45.0;257;280;130;7;N;9;1000;Battery Electric Vehicle ;https://ev-database.org/car/1609/21-PROACE-Shuttle-M-50-kWh
+22;OPEL;VIVARO-E COMBI L 50 KWH;2141;45967;175;12.1;45.0;257;280;130;7;N;9;1000;Battery Electric Vehicle ;https://ev-database.org/car/1601/22-Vivaro-e-Combi-L-50-kWh
+21;TOYOTA;PROACE SHUTTLE L 50 KWH;342;46595;175;12.1;45.0;257;280;130;7;N;9;1000;Battery Electric Vehicle ;https://ev-database.org/car/1610/21-PROACE-Shuttle-L-50-kWh
+30;CITROEN;E-SPACETOURER XL 50 KWH;2563;55560;175;12.1;45.0;257;280;130;7;N;9;1000;Battery Electric Vehicle ;https://ev-database.org/car/1342/30-e-SpaceTourer-XL-50-kWh
+30;CITROEN;E-JUMPY COMBI XL 50 KWH;2563;46730;175;12.1;45.0;257;280;130;7;N;9;1000;Battery Electric Vehicle ;https://ev-database.org/car/1596/30-e-Jumpy-Combi-XL-50-kWh
+30;CITROEN;E-JUMPY COMBI XS 50 KWH;2563;41780;180;12.1;45.0;250;290;130;7;N;9;1000;Battery Electric Vehicle ;https://ev-database.org/car/1594/30-e-Jumpy-Combi-XS-50-kWh
+30;CITROEN;E-SPACETOURER XS 50 KWH;2563;50880;180;12.1;45.0;250;290;130;7;N;9;1000;Battery Electric Vehicle ;https://ev-database.org/car/1340/30-e-SpaceTourer-XS-50-kWh
+22;OPEL;ZAFIRA-E LIFE S 50 KWH;2141;56700;180;12.1;45.0;250;290;130;7;N;9;1000;Battery Electric Vehicle ;https://ev-database.org/car/1345/22-Zafira-e-Life-S-50-kWh
+15;PEUGEOT;E-EXPERT COMBI STANDARD 50 KWH;5323;43815;180;13.1;45.0;250;290;130;7;N;9;1000;Battery Electric Vehicle ;https://ev-database.org/car/1605/15-e-Expert-Combi-Standard-50-kWh
+22;OPEL;VIVARO-E COMBI M 50 KWH;2141;44455;180;12.1;45.0;250;290;130;7;N;9;1000;Battery Electric Vehicle ;https://ev-database.org/car/1600/22-Vivaro-e-Combi-M-50-kWh
+22;OPEL;VIVARO-E COMBI L 75 KWH;2141;54498;250;13.3;65.0;260;290;130;7;N;9;1000;Battery Electric Vehicle ;https://ev-database.org/car/1603/22-Vivaro-e-Combi-L-75-kWh
+15;PEUGEOT;E-EXPERT COMBI LONG 50 KWH;5323;45751;175;13.1;45.0;257;280;130;7;N;9;1000;Battery Electric Vehicle ;https://ev-database.org/car/1606/15-e-Expert-Combi-Long-50-kWh
+22;OPEL;ZAFIRA-E LIFE M 50 KWH;2141;53711;180;12.1;45.0;250;290;130;7;N;9;1000;Battery Electric Vehicle ;https://ev-database.org/car/1346/22-Zafira-e-Life-M-50-kWh
+15;PEUGEOT;E-TRAVELLER COMPACT 50 KWH;5323;50880;180;12.1;45.0;250;290;130;7;N;9;1000;Battery Electric Vehicle ;https://ev-database.org/car/1350/15-e-Traveller-Compact-50-kWh
+38;MG;ZS EV LONG RANGE;349;36985;365;8.4;68.3;187;410;175;2;B;5;500;Battery Electric Vehicle ;https://ev-database.org/car/1541/38-ZS-EV-Long-Range
+38;MG;MARVEL R PERFORMANCE;349;51485;330;4.9;65.0;197;390;200;3;C;5;750;Battery Electric Vehicle ;https://ev-database.org/car/1475/38-Marvel-R-Performance
+38;MG;ZS EV STANDARD RANGE;349;32985;270;8.6;49.0;181;260;175;2;B;5;500;Battery Electric Vehicle ;https://ev-database.org/car/1540/38-ZS-EV-Standard-Range
+38;MG;385 ELECTRIC LONG RANGE;349;36985;325;8.3;57.0;175;320;185;3;C;5;500;Battery Electric Vehicle ;https://ev-database.org/car/1474/38-385-Electric-Long-Range
+38;MG;385 EV LONG RANGE;349;39818;340;7.7;57.0;168;340;185;3;C;4;1134;Battery Electric Vehicle ;https://ev-database.org/car/1526/38-385-EV-Long-Range
+38;MG;MARVEL R;349;46485;335;7.9;65.0;194;400;200;3;C;5;750;Battery Electric Vehicle ;https://ev-database.org/car/1524/38-Marvel-R
+38;MG;385 ELECTRIC STANDARD RANGE;349;33985;260;8.5;46.0;177;320;185;3;C;5;500;Battery Electric Vehicle ;https://ev-database.org/car/1646/38-385-Electric-Standard-Range
